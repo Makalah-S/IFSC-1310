@@ -13,3 +13,11 @@ Process of Saving and Uploading Files: (He dosen't want people just pressing the
 Validate the website before turning it in, it'll tell you errors to which you can correct. It'll take time and practice, but you can do it. It's pushing a standard to ensure you're doing everything correctly.
 
 Making an inaccesable website can open a company to lawsuits. 
+
+XHTML is different from HTML5 <- Very important note.
+
+/*Comments*/
+
+id - 100 ponts
+class - 10 points
+type - 1 point
