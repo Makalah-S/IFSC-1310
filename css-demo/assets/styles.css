@@ -1,0 +1,28 @@
+/* --- CSS Demo --- */
+
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+  /* Some work flows start off with custom defaults, you might created your own signature one day. */
+
+  /* Global Styles*/
+p,h4, h5{
+    color:#731F46;
+}
+h1, h2, h3{
+    color:#BF0436;
+}
+body{
+    background-color:#F2C9E0;
+    font-family: "Baskervville", serif;
+}
+
+header.primary{
+    
+}
