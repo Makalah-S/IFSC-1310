@@ -12,17 +12,69 @@ html {
   /* Some work flows start off with custom defaults, you might created your own signature one day. */
 
   /* Global Styles*/
-p,h4, h5{
-    color:#731F46;
-}
-h1, h2, h3{
-    color:#BF0436;
-}
+
 body{
     background-color:#F2C9E0;
-    font-family: "Baskervville", serif;
+    font-family: "baskervville", serif;
+    color:#731F46;
+    max-width:1500px;
+
 }
 
 header.primary{
-    
+  background-color:#BF0436;
+  color:#F2C9E0;
+  text-align:center;
+  text-shadow: 0px 0px #731F46;
+  padding:25px;
+}
+
+header.primary h1{
+  font-size: 2.4rem;
+}
+
+header h1 a{
+  color:#F2C9E0;
+  text-decoration:none;
+  margin-top:2px;
+}
+
+header h2 {
+  margin-top:0;
+  margin-bottom:50px;
+  font-size:1.5rem;
+}
+
+header.primary nav{
+  margin:auto;
+  max-width:900px;
+}
+
+header.primary ul {
+  padding:0;
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+}
+
+header.primary ul li{
+  list-style-type:none;
+ 
+}
+
+header.primary nav a{
+  color:#F2C9E0;
+  text-decoration:none;
+  background-color:#BF3939;
+  padding:15px 20px;
+  border-radius: 20px;
+  border: 1px dashed #F27272;
+  transition:0.5s;
+  box-shadow:5px 5px #731F46;
+}
+
+header.primary nav a:hover{
+  color:#731F46;
+  opacity:75%;
+  box-shadow:0px 0px;
 }
