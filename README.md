@@ -18,6 +18,10 @@ XHTML is different from HTML5 <- Very important note.
 
 /*Comments*/
 
-id - 100 ponts
-class - 10 points
-type - 1 point
+Target Types (CSS):
+ID - 100 Points
+Class - 10 Points
+Type - 1 Point
+
+Try and design the CSS as if it's a Python program. Find what the elements have in common and grop them as such. Perhaps it'll help to map out what you desire to do and see how you could research such.
+It's not to bad, now is it?
